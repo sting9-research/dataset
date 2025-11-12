@@ -142,11 +142,11 @@ This license is governed by [your jurisdiction] law.
 ## Quick Reference Guide
 
 ✅ **Permitted**: University research → open access publication  
-✅ **Permitted**: Non-profit public health study → free report  
+✅ **Permitted**: Non-profit public security study → free report  
 ✅ **Permitted**: Government agency analysis → public dataset  
 ❌ **Prohibited**: Startup using data for product development  
 ❌ **Prohibited**: Publishing in Nature (paywall) without permission  
-❌ **Prohibited**: Pharma-sponsored research with IP restrictions  
+❌ **Prohibited**: Sponsored research with IP restrictions  
 ❌ **Prohibited**: Training commercial AI models  
 ⚠️ **Contact First**: Industry partnership with open publication  
 ⚠️ **Contact First**: Non-profit with revenue-generating activities
